@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+mammoth
+beautifulsoup4
+python-multipart
