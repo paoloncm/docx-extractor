@@ -1,5 +1,4 @@
 fastapi
+python-docx
 uvicorn
-mammoth
-beautifulsoup4
-python-multipart
+aiofiles
